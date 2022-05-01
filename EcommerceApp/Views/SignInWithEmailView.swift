@@ -1,8 +1,8 @@
 //
 //  SignInWithEmailView.swift
-//  SampleApp2
+//  EcommerceApp
 //
-//  Created by Madusanka Gajadeera on 2022-04-24.
+//  Created by Madusanka Gajadeera on 2022-04-28.
 //
 
 import SwiftUI
